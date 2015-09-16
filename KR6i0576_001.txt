@@ -1,24 +1,23 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:23:00.513323
+#+DATE: 2015-08-30 20:23:01.226231
 #+TITLE: 佛說大方廣未曾有經善巧方便品
 #+PROPERTY: CBETA_ID T17n0844
 #+PROPERTY: ID KR6i0576
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 844
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@MING
 #+PROPERTY: LASTPB <pb:KR6i0576_T_000-0931a>¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0576_T_001-0931a> ¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.844¶
-
- 《佛說大方廣未曾有經善巧方便¶
+No. 844¶
+《佛說大方廣未曾有經善巧方便¶
 品》¶
 ¶
-西天譯經三藏朝奉大夫¶
-試鴻臚卿傳法大師臣施護¶
+宋西天三藏朝奉大夫¶
+試鴻臚卿傳法大師施護¶
 奉　詔譯¶
 
 爾時，有菩薩摩訶薩，其名大意，於眾會中即¶
@@ -63,7 +62,7 @@ No.844¶
 過失。
 
 「若施摶食，普願一切眾生得天甘露¶
-定，復得最上法甘露味，快樂具足。
+食，復得最上法甘露味，快樂具足。
 
 「若施鈴鐸，¶
 普願一切眾生皆得最上清妙梵音，聞者適¶
