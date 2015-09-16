@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說大方廣未曾有經善巧方便品
+#+DATE: 2015-08-30 20:23:00.720239
+#+PROPERTY: JUAN 0
