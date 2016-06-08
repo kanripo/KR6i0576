@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 844
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6i0576_T_000-0931a>¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0576_T_001-0931a> ¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
@@ -52,7 +52,7 @@ No. 844¶
 供養。
 
 「若施一燈，普願一切眾生開諸盲目，消¶
-除暝暗，得大明照，如日月光。
+除󵖬暗，得大明照，如日月光。
 
 「若施塗香而用¶
 塗飾，普願一切眾生當得真金色相、天香塗¶
